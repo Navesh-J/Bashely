@@ -7,7 +7,6 @@ A modern calendar application built with **React** and **Tailwind CSS**, allowin
 - View events in both **grid** and **list** modes
 - Toggle between **light and dark themes**
 - Store all events in **localStorage**
-- (Future) Sync with **Google Calendar**
 
 > 🔗 Live: [Bashley](https://bashely.vercel.app)
 
@@ -21,6 +20,5 @@ A modern calendar application built with **React** and **Tailwind CSS**, allowin
 - 📜 **Two Modes** – Switch between grid and list views
 - 🌗 **Theme Toggle** – Light/Dark mode support
 - 💾 **Persistent Storage** – Uses browser `localStorage`
-- ☁️ **Google Calendar Sync** (coming soon)
 
 ---
